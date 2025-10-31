@@ -17,8 +17,8 @@ More details on the assistant OCS API and frontend integration possibilities in 
 ## Installation
 
 For installation instructions, see:
-* [Installation Guide (English)](https://github.com/nextcloud/assistant/raw/main/docs/INSTALL.md)
-* [Guide d'Installation (Français)](https://github.com/nextcloud/assistant/raw/main/docs/INSTALL.fr.md)
+* [Installation Guide (English)](docs/INSTALL.md)
+* [Guide d'Installation (Français)](docs/INSTALL.fr.md)
 
 ### How to use it
 
