@@ -14,6 +14,12 @@ The assistant also appears in others apps like Text to easily process parts of a
 More details on the assistant OCS API and frontend integration possibilities in the
 [developer doc](https://github.com/nextcloud/assistant/raw/main/docs/developer)
 
+## Installation
+
+For installation instructions, see:
+* [Installation Guide (English)](docs/INSTALL.md)
+* [Guide d'Installation (Français)](docs/INSTALL.fr.md)
+
 ### How to use it
 
 A new right header menu entry appears. Once clicked, the assistant is displayed and you can select and task type and
